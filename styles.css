@@ -1,0 +1,25 @@
+body
+{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #565959;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.root, .title, aside p
+{
+  font-weight: lighter;
+}
+
+.main-img
+{
+  width: 420px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+.rating-img
+{
+  height: 20px;
+}
